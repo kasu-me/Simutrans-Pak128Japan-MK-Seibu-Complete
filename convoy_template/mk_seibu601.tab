@@ -1,0 +1,5 @@
+name=mk_seibu601_4cars
+vehicle[0]=mk_seibu601_Tcf
+vehicle[1]=mk_seibu601_Mp
+vehicle[2]=mk_seibu601_M
+vehicle[3]=mk_seibu601_Tcb
