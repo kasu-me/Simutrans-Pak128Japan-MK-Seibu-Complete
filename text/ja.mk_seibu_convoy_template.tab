@@ -86,6 +86,30 @@ mk_seibu701_6cars_cooler_with_M601
 西武鉄道701系 (6両編成/冷房/モハ601組込)
 mk_seibu701_6cars_cooler
 西武鉄道701系 (6両編成/冷房)
+mk_seibu2000_2cars_sqvn
+西武鉄道2000系 (2両編成/角型ベンチレータ)
+mk_seibu2000_2cars_glvn
+西武鉄道2000系 (2両編成/グローブ型ベンチレータ)
+mk_seibu2000_6cars_sqvn
+西武鉄道2000系 (6両編成/角型ベンチレータ)
+mk_seibu2000_6cars_glvn
+西武鉄道2000系 (6両編成/グローブ型ベンチレータ)
+mk_seibu2000_8cars_sqvn
+西武鉄道2000系 (8両編成/角型ベンチレータ)
+mk_seibu2000_8cars_glvn
+西武鉄道2000系 (8両編成/グローブ型ベンチレータ)
+mk_seibu2000_2cars_RN_sqvn
+西武鉄道2000系 (2両編成/リニューアル車/角型ベンチレータ)
+mk_seibu2000_2cars_RN_sqvn
+西武鉄道2000系 (2両編成/リニューアル車/グローブ型ベンチレータ)
+mk_seibu2000_6cars_RN_sqvn
+西武鉄道2000系 (6両編成/リニューアル車/角型ベンチレータ)
+mk_seibu2000_6cars_RN_glvn
+西武鉄道2000系 (6両編成/リニューアル車/グローブ型ベンチレータ)
+mk_seibu2000_8cars_RN_sqvn
+西武鉄道2000系 (8両編成/リニューアル車/角型ベンチレータ)
+mk_seibu2000_8cars_RN_glvn
+西武鉄道2000系 (8両編成/リニューアル車/グローブ型ベンチレータ)
 mk_seibu2000_N_2cars_1_vn_ptd2
 西武鉄道新2000系 (2両編成/小窓/ベンチレータ有/菱形パンタ2基)
 mk_seibu2000_N_2cars_1_vnr_ptd2
