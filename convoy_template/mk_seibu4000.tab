@@ -1,0 +1,11 @@
+name=mk_seibu4000_4cars
+vehicle[0]=mk_seibu4000_Tcf
+vehicle[1]=mk_seibu4000_Mp
+vehicle[2]=mk_seibu4000_M
+vehicle[3]=mk_seibu4000_Tcb
+-
+name=mk_seibu52_4cars
+vehicle[0]=mk_seibu52_4009
+vehicle[1]=mk_seibu52_4109
+vehicle[2]=mk_seibu52_4110
+vehicle[3]=mk_seibu52_4010
